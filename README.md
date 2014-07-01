@@ -19,17 +19,32 @@ My personal collection of dev related bookmarks.
 	+ [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) by Alistair Cockburn
 
 # C&#35;
++ SOLID Principles
+	+ [DI, Composition Root by M. Seeman](http://blog.ploeh.dk/2011/07/28/CompositionRoot/)
 + Entity Framweork
-	+[Entity Framework Code First: Mapping to Existing Table in the Database](http://www.codeproject.com/Tips/661053/Entity-Framework-Code-First-Map)
+	+ [Entity Framework Code First: Mapping to Existing Table in the Database](http://www.codeproject.com/Tips/661053/Entity-Framework-Code-First-Map)
 + Testing
-	+ [FluentAutomation for automated testing of Web Applications](http://www.hanselman.com/blog/NuGetPackageOfTheWeekFluentAutomationForAutomatedTestingOfWebApplications.aspx)
+	+ [FluentAutomation for automated testing of Web Applications](http://www.hanselman.com/blog/NuGetPackageOfTheWeekFluentAutomationForAutomatedTestingOfWebApplications.aspx) S. Hanselman blog post
+	+ [FluentAutomation Home](http://fluent.stirno.com/)
++ Misc
+	+ [Chocolatey](http://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
+
 
 # Javascript
++ Framework and Libs
+	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps."
++ Pattern and Practices
+	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 
 # Agile and Soft Skills
-+ [‘Evidence-Based Management’ for Software Organizations](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/14/%E2%80%98Evidence-Based-Management%E2%80%99-for-Software-Organizations) Scrum.org blog
-+ [5 Common Planning Mistakes](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/16/5-Common-Planning-Mistakes)
-+ [Put Yourself Out There: The Myth of the Genius Programmer](http://joshldavis.com/2014/06/13/put-yourself-out-there/?utm_content=bufferc175c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
++ Articles
+	+ [‘Evidence-Based Management’ for Software Organizations](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/14/%E2%80%98Evidence-Based-Management%E2%80%99-for-Software-Organizations) Scrum.org blog
+	+ [5 Common Planning Mistakes](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/16/5-Common-Planning-Mistakes)
+	+ [Put Yourself Out There: The Myth of the Genius Programmer](http://joshldavis.com/2014/06/13/put-yourself-out-there/?utm_content=bufferc175c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+	+ [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/) "Contrary to what you might believe, merely doing your job every day doesn't qualify as real practice."
+	+ [Elastic Leadership](http://5whys.com/) R. Osherove blog
++ Books
+	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
 
 # Talks and Videos
  + [Dev Week 2014 Complete List of Videos](http://devweek.com/2014/assets.html)
