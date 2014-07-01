@@ -37,13 +37,15 @@ My personal collection of dev related bookmarks.
 + Pattern and Practices
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 
-# Agile and Soft Skills
+# Agile, Deep Practice and Soft Skills
 + Articles
 	+ [‘Evidence-Based Management’ for Software Organizations](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/14/%E2%80%98Evidence-Based-Management%E2%80%99-for-Software-Organizations) Scrum.org blog
 	+ [5 Common Planning Mistakes](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/16/5-Common-Planning-Mistakes)
 	+ [Put Yourself Out There: The Myth of the Genius Programmer](http://joshldavis.com/2014/06/13/put-yourself-out-there/?utm_content=bufferc175c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 	+ [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/) "Contrary to what you might believe, merely doing your job every day doesn't qualify as real practice."
 	+ [Elastic Leadership](http://5whys.com/) R. Osherove blog
++ Resources
+	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
 
