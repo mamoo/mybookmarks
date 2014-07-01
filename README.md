@@ -18,6 +18,9 @@ My personal collection of dev related bookmarks.
 + Hexagonal Architecture (Ports and Adapters)
 	+ [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) by Alistair Cockburn
 
++ Microservices
+	+ [Microservices.io](http://microservices.io/)
+
 # C&#35;
 + SOLID Principles
 	+ [DI, Composition Root by M. Seeman](http://blog.ploeh.dk/2011/07/28/CompositionRoot/)
