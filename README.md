@@ -4,6 +4,9 @@ My personal collection of dev related bookmarks.
 
 
 # Software Architecture
+
++ Various Resouces
+	+ [Coding The Architecture Blog](http://www.codingthearchitecture.com/)
  
 + Onion Architecture
 	+ [The Onion Architecture : part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/) post by J. Palermo
@@ -58,3 +61,4 @@ My personal collection of dev related bookmarks.
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
+ + [Microsoft Virtual Academy](www.microsoftvirtualacademy.com)
