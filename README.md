@@ -19,10 +19,17 @@ My personal collection of dev related bookmarks.
 	+ [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) by Alistair Cockburn
 
 # C&#35;
++ Entity Framweork
+	+[Entity Framework Code First: Mapping to Existing Table in the Database](http://www.codeproject.com/Tips/661053/Entity-Framework-Code-First-Map)
 + Testing
 	+ [FluentAutomation for automated testing of Web Applications](http://www.hanselman.com/blog/NuGetPackageOfTheWeekFluentAutomationForAutomatedTestingOfWebApplications.aspx)
 
 # Javascript
+
+# Agile and Soft Skills
++ [‘Evidence-Based Management’ for Software Organizations](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/14/%E2%80%98Evidence-Based-Management%E2%80%99-for-Software-Organizations) Scrum.org blog
++ [5 Common Planning Mistakes](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/16/5-Common-Planning-Mistakes)
++ [Put Yourself Out There: The Myth of the Genius Programmer](http://joshldavis.com/2014/06/13/put-yourself-out-there/?utm_content=bufferc175c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 # Talks and Videos
  + [Dev Week 2014 Complete List of Videos](http://devweek.com/2014/assets.html)
