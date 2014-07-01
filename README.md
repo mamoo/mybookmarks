@@ -28,6 +28,7 @@ My personal collection of dev related bookmarks.
 	+ [FluentAutomation Home](http://fluent.stirno.com/)
 + Misc
 	+ [Chocolatey](http://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
+	+ [Boxstarter](http://www.boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
 
 
 # Javascript
@@ -48,6 +49,7 @@ My personal collection of dev related bookmarks.
 
 # Talks and Videos
  + [Dev Week 2014 Complete List of Videos](http://devweek.com/2014/assets.html)
+ + [Roy Osherove - Beautiful Builds](http://vimeo.com/97516289)
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
