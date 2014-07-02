@@ -23,6 +23,7 @@ My personal collection of dev related bookmarks.
 
 + Microservices
 	+ [Microservices.io](http://microservices.io/)
+	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
 
 # C&#35;
 + SOLID Principles
@@ -50,6 +51,7 @@ My personal collection of dev related bookmarks.
 	+ [Put Yourself Out There: The Myth of the Genius Programmer](http://joshldavis.com/2014/06/13/put-yourself-out-there/?utm_content=bufferc175c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 	+ [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/) "Contrary to what you might believe, merely doing your job every day doesn't qualify as real practice."
 	+ [Elastic Leadership](http://5whys.com/) R. Osherove blog
+	+ [How To Give Feedback, Both Positive and Negative](http://www.nytimes.com/2013/04/06/your-money/how-to-give-effective-feedback-both-positive-and-negative.html?pagewanted=all&_r=0)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
