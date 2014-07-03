@@ -36,6 +36,8 @@ My personal collection of dev related bookmarks.
 + Testing
 	+ [FluentAutomation for automated testing of Web Applications](http://www.hanselman.com/blog/NuGetPackageOfTheWeekFluentAutomationForAutomatedTestingOfWebApplications.aspx) S. Hanselman blog post
 	+ [FluentAutomation Home](http://fluent.stirno.com/)
+	+ Libraries
+		+ [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions)
 + Misc
 	+ [Chocolatey](http://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
 	+ [Boxstarter](http://www.boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
