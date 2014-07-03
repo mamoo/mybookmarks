@@ -25,6 +25,9 @@ My personal collection of dev related bookmarks.
 	+ [Microservices.io](http://microservices.io/)
 	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
 
+# TESTING
++ [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
+
 # C&#35;
 + SOLID Principles
 	+ [DI, Composition Root by M. Seeman](http://blog.ploeh.dk/2011/07/28/CompositionRoot/)
