@@ -25,7 +25,7 @@ My personal collection of dev related bookmarks.
 	+ [Microservices.io](http://microservices.io/)
 	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
 
-# TESTING
+# Testing
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
 
 # C&#35;
