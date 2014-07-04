@@ -69,5 +69,5 @@ My personal collection of dev related bookmarks.
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
- + [Microsoft Virtual Academy](www.microsoftvirtualacademy.com)
+ + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
  + [CleanCoders](http://cleancoders.com/)
