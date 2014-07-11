@@ -24,6 +24,7 @@ My personal collection of dev related bookmarks.
 + Microservices
 	+ [Microservices.io](http://microservices.io/)
 	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
+	+ [Microservices, 72 resources](http://blog.arkency.com/2014/07/microservices-72-resources/)
 
 # Testing
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
@@ -72,3 +73,8 @@ My personal collection of dev related bookmarks.
  + [Learning Line](https://learninglineapp.com/schedule)
  + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
  + [CleanCoders](http://cleancoders.com/)
+
+# Various
+ + [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+ + [Big-O notation explained by a self-taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
+ + [Big-O is easy to calculate, if you know how](http://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
