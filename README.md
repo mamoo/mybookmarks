@@ -73,6 +73,7 @@ My personal collection of dev related bookmarks.
  + [Learning Line](https://learninglineapp.com/schedule)
  + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
  + [CleanCoders](http://cleancoders.com/)
+ + [This is a list of must watch videos devoted to JavaScript](https://github.com/bolshchikov/js-must-watch)
 
 # Various
  + [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
