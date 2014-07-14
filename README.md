@@ -50,6 +50,7 @@ My personal collection of dev related bookmarks.
 + Pattern and Practices
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
+	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
