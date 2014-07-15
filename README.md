@@ -28,6 +28,7 @@ My personal collection of dev related bookmarks.
 	+ [Microservices.io](http://microservices.io/)
 	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
 	+ [Microservices, 72 resources](http://blog.arkency.com/2014/07/microservices-72-resources/)
+	+ [Microservices: It’s not (only) the size that matters, it’s (also) how you use them](http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) Series of 4 blog posts on Microarchitecture
 
 # Testing
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
