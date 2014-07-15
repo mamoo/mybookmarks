@@ -18,6 +18,9 @@ My personal collection of dev related bookmarks.
 	+ [Do you know the layers of the onion architecture?](http://rules.ssw.com.au/SoftwareDevelopment/RulesToBetterMVC/Pages/The-layers-of-the-onion-architecture.aspx)
 	+ [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154) Refactoring Exercise
 
++ DDD
+	+ [DDD By The Book](http://simon-says-architecture.com/2011/09/06/ddd-by-the-book/)
+
 + Hexagonal Architecture (Ports and Adapters)
 	+ [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) by Alistair Cockburn
 
