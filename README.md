@@ -30,6 +30,10 @@ My personal collection of dev related bookmarks.
 	+ [Microservices, 72 resources](http://blog.arkency.com/2014/07/microservices-72-resources/)
 	+ [Microservices: It’s not (only) the size that matters, it’s (also) how you use them](http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) Series of 4 blog posts on Microarchitecture
 
+# API Design
+
++ [12 Killer Resources for API Practitioners](http://nordicapis.com/12-killer-resources-api-practitioners/)
+
 # Testing
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
 
