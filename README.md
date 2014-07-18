@@ -73,6 +73,7 @@ My personal collection of dev related bookmarks.
  + [Dev Week 2014 Complete List of Videos](http://devweek.com/2014/assets.html)
  + [Roy Osherove - Beautiful Builds](http://vimeo.com/97516289)
  + [Brian J Brennan: Being Human (JSConf2014)](https://www.youtube.com/watch?v=LlO2_GecWo8&feature=youtu.be)
+ + [HTML5 Dev Conf Videos](http://html5devconf.com/videos.html)
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
