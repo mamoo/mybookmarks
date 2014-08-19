@@ -69,6 +69,9 @@ My personal collection of dev related bookmarks.
 	+ [The Ultimate Code Kata](http://blog.codinghorror.com/the-ultimate-code-kata/) "Contrary to what you might believe, merely doing your job every day doesn't qualify as real practice."
 	+ [Elastic Leadership](http://5whys.com/) R. Osherove blog
 	+ [How To Give Feedback, Both Positive and Negative](http://www.nytimes.com/2013/04/06/your-money/how-to-give-effective-feedback-both-positive-and-negative.html?pagewanted=all&_r=0)
+	+ [Why do we use Story Points for Estimating?](http://blog.scrum.org/why-story-points-for-estimating/)
+	+ [How Do Story Points Relate to Hours?](http://www.mountaingoatsoftware.com/blog/how-do-story-points-relate-to-hours)
+	+ [Story Points: Why are they better than hours?](http://www.scruminc.com/story-points-why-are-they-better-than/)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
