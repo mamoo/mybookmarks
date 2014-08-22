@@ -62,6 +62,8 @@ My personal collection of dev related bookmarks.
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
++ Books
+	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
@@ -85,13 +87,14 @@ My personal collection of dev related bookmarks.
  + [Roy Osherove - Beautiful Builds](http://vimeo.com/97516289)
  + [Brian J Brennan: Being Human (JSConf2014)](https://www.youtube.com/watch?v=LlO2_GecWo8&feature=youtu.be)
  + [HTML5 Dev Conf Videos](http://html5devconf.com/videos.html)
+ + [JS Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
  + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
  + [CleanCoders](http://cleancoders.com/)
  + [This is a list of must watch videos devoted to JavaScript](https://github.com/bolshchikov/js-must-watch)
- + [Javascript Best Practices](https://www.codeschool.com/courses/javascript-best-practices?utm_source=javascriptweekly&utm_medium=email)
+ + [Javascript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
 
 # Various
  + [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
