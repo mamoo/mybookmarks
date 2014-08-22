@@ -47,6 +47,8 @@ My personal collection of dev related bookmarks.
 	+ [FluentAutomation Home](http://fluent.stirno.com/)
 	+ Libraries
 		+ [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions)
++NuGet
+	+ [Creating a NuGet Package in 7 easy steps](http://www.hanselman.com/blog/CreatingANuGetPackageIn7EasyStepsPlusUsingNuGetToIntegrateASPNETMVC3IntoExistingWebFormsApplications.aspx)
 + Misc
 	+ [Chocolatey](http://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
 	+ [Boxstarter](http://www.boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
@@ -72,6 +74,7 @@ My personal collection of dev related bookmarks.
 	+ [Why do we use Story Points for Estimating?](http://blog.scrum.org/why-story-points-for-estimating/)
 	+ [How Do Story Points Relate to Hours?](http://www.mountaingoatsoftware.com/blog/how-do-story-points-relate-to-hours)
 	+ [Story Points: Why are they better than hours?](http://www.scruminc.com/story-points-why-are-they-better-than/)
+	+ [Software estimation considered harmful?](http://gigamonkeys.wordpress.com/2007/04/26/estimation-considered-harmful/)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
@@ -88,6 +91,7 @@ My personal collection of dev related bookmarks.
  + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
  + [CleanCoders](http://cleancoders.com/)
  + [This is a list of must watch videos devoted to JavaScript](https://github.com/bolshchikov/js-must-watch)
+ + [Javascript Best Practices](https://www.codeschool.com/courses/javascript-best-practices?utm_source=javascriptweekly&utm_medium=email)
 
 # Various
  + [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
