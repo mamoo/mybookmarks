@@ -63,7 +63,7 @@ My personal collection of dev related bookmarks.
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 + Books
-	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
+	+ [Javascript for kidsa](http://www.nostarch.com/javascriptforkids)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
@@ -77,6 +77,7 @@ My personal collection of dev related bookmarks.
 	+ [How Do Story Points Relate to Hours?](http://www.mountaingoatsoftware.com/blog/how-do-story-points-relate-to-hours)
 	+ [Story Points: Why are they better than hours?](http://www.scruminc.com/story-points-why-are-they-better-than/)
 	+ [Software estimation considered harmful?](http://gigamonkeys.wordpress.com/2007/04/26/estimation-considered-harmful/)
+	+ [Why Crunch Mode doesn't work: Six lessons](http://legacy.igda.org/why-crunch-modes-doesnt-work-six-lessons)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
