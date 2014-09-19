@@ -29,6 +29,7 @@ My personal collection of dev related bookmarks.
 	+ [Martin Fowler Article on Microservices](http://martinfowler.com/articles/microservices.html)
 	+ [Microservices, 72 resources](http://blog.arkency.com/2014/07/microservices-72-resources/)
 	+ [Microservices: It’s not (only) the size that matters, it’s (also) how you use them](http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) Series of 4 blog posts on Microarchitecture
+	+ [Microservices for the Grumpy Neckbeard](http://www.chrisstucchio.com/blog/2014/microservices_for_the_grumpy_neckbeard.html)
 
 # API Design
 
@@ -63,7 +64,7 @@ My personal collection of dev related bookmarks.
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 + Books
-	+ [Javascript for kidsa](http://www.nostarch.com/javascriptforkids)
+	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
@@ -75,9 +76,12 @@ My personal collection of dev related bookmarks.
 	+ [How To Give Feedback, Both Positive and Negative](http://www.nytimes.com/2013/04/06/your-money/how-to-give-effective-feedback-both-positive-and-negative.html?pagewanted=all&_r=0)
 	+ [Why do we use Story Points for Estimating?](http://blog.scrum.org/why-story-points-for-estimating/)
 	+ [How Do Story Points Relate to Hours?](http://www.mountaingoatsoftware.com/blog/how-do-story-points-relate-to-hours)
+	+ [Agile Estimation Techniques and Process](http://msdn.microsoft.com/en-us/library/hh273052(v=vs.88).aspx)
 	+ [Story Points: Why are they better than hours?](http://www.scruminc.com/story-points-why-are-they-better-than/)
 	+ [Software estimation considered harmful?](http://gigamonkeys.wordpress.com/2007/04/26/estimation-considered-harmful/)
 	+ [Why Crunch Mode doesn't work: Six lessons](http://legacy.igda.org/why-crunch-modes-doesnt-work-six-lessons)
+	+ [Are you too nice at work?](https://www.linkedin.com/pulse/article/20140906053647-76474304-are-you-a-people-pleaser-at-work?trk=tod-home-art-list-small_1)
+	+ [Business Coaching: Using Constructive Feedback vs. Praise and Criticism](http://www.dummies.com/how-to/content/business-coaching-using-constructive-feedback-vers.html)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
