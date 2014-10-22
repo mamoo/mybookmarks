@@ -57,7 +57,7 @@ My personal collection of dev related bookmarks.
 
 # Javascript
 + Framework and Libs
-	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps."
+	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loSW osely coupled, non-frameworky framework for building advanced JavaScript apps."
 + Pattern and Practices
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
@@ -82,6 +82,7 @@ My personal collection of dev related bookmarks.
 	+ [Why Crunch Mode doesn't work: Six lessons](http://legacy.igda.org/why-crunch-modes-doesnt-work-six-lessons)
 	+ [Are you too nice at work?](https://www.linkedin.com/pulse/article/20140906053647-76474304-are-you-a-people-pleaser-at-work?trk=tod-home-art-list-small_1)
 	+ [Business Coaching: Using Constructive Feedback vs. Praise and Criticism](http://www.dummies.com/how-to/content/business-coaching-using-constructive-feedback-vers.html)
+	+ [Non Violent Communication (video)](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/705/Non-Violent-Communication)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 + Books
@@ -93,6 +94,8 @@ My personal collection of dev related bookmarks.
  + [Brian J Brennan: Being Human (JSConf2014)](https://www.youtube.com/watch?v=LlO2_GecWo8&feature=youtu.be)
  + [HTML5 Dev Conf Videos](http://html5devconf.com/videos.html)
  + [JS Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
+ + [The art of doing twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)}
+ + [Kevin Rutherford on 'Tell, don't ask'](http://vimeo.com/67476623)
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
