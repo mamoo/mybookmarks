@@ -1,6 +1,6 @@
 My Bookmarks
 ============
-My personal collection of dev related bookmarks.
+My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 
 
 # Software Architecture
