@@ -91,6 +91,11 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + Books
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
 
+# Public Speaking
+ + [We Are All Awesome](http://weareallaweso.me/)
+ + [Speaking.io](http://speaking.io/)
+ + [How to write a great talk proposal for a tech conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech)
+
 # Talks and Videos
  + [Dev Week 2014 Complete List of Videos](http://devweek.com/2014/assets.html)
  + [Roy Osherove - Beautiful Builds](http://vimeo.com/97516289)
