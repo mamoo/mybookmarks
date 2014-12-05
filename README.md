@@ -31,6 +31,9 @@ My personal collection of dev related bookmarks.
 	+ [Microservices: It’s not (only) the size that matters, it’s (also) how you use them](http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) Series of 4 blog posts on Microarchitecture
 	+ [Microservices for the Grumpy Neckbeard](http://www.chrisstucchio.com/blog/2014/microservices_for_the_grumpy_neckbeard.html)
 
++ Various
+	+ [97 Things Every Software Architect Should Know](http://97things.oreilly.com/wiki/index.php/97_Things_Every_Software_Architect_Should_Know_-_The_Book)
+
 # API Design
 
 + [12 Killer Resources for API Practitioners](http://nordicapis.com/12-killer-resources-api-practitioners/)
