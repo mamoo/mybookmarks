@@ -61,6 +61,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + Framework and Libs
 	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loSW osely coupled, non-frameworky framework for building advanced JavaScript apps."
 + Pattern and Practices
+	+ [Closures (MDN)](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Closures)
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
