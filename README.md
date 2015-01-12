@@ -72,6 +72,10 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Learning Javascript Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
+# Git
++ [Git Commit Good Practices (OpenStack wiki)](https://wiki.openstack.org/wiki/GitCommitMessages#Git_Commit_Good_Practice)
++ [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
 # Agile, Deep Practice and Soft Skills
 + Articles
 	+ [‘Evidence-Based Management’ for Software Organizations](https://www.scrum.org/Blog/ArtMID/1765/ArticleID/14/%E2%80%98Evidence-Based-Management%E2%80%99-for-Software-Organizations) Scrum.org blog
