@@ -5,9 +5,6 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 
 # Software Architecture
 
-+ Various Resouces
-	+ [Coding The Architecture Blog](http://www.codingthearchitecture.com/)
- 
 + Onion Architecture
 	+ [The Onion Architecture : part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/) post by J. Palermo
 	+ [Layers, Onions, Ports, Adapters: it's all the same by Mark Seemann](http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
@@ -33,6 +30,8 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 
 + Various
 	+ [97 Things Every Software Architect Should Know](http://97things.oreilly.com/wiki/index.php/97_Things_Every_Software_Architect_Should_Know_-_The_Book)
+	+ [12th Factor, The twelve-factor app is a methodology for building software-as-a-service apps](http://12factor.net/)
+	+ [Coding The Architecture Blog](http://www.codingthearchitecture.com/)
 
 # API Design
 
@@ -66,8 +65,11 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
-+ Books
++ Books and Online Guides
+	+ [Eloquent Javascript](http://eloquentjavascript.net/)
 	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
+	+ [Learning Javascript Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
