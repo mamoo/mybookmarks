@@ -75,6 +75,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 # Git
 + [Git Commit Good Practices (OpenStack wiki)](https://wiki.openstack.org/wiki/GitCommitMessages#Git_Commit_Good_Practice)
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
++ [25 Tips for Intermediate Git Users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
 
 # Agile, Deep Practice and Soft Skills
 + Articles
