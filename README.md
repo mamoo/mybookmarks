@@ -65,6 +65,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
 	+ [Favoring Curry](http://fr.umio.us/favoring-curry/) "Currying is the process of turning a function that expects multiple parameters into one that, when supplied fewer parameters, returns a new function that awaits the remaining ones."
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
+	+ [Properly Isolate Variables in Javascript](http://nicoespeon.com/en/2013/05/properly-isolate-variables-in-javascript/)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 + Books and Online Guides
 	+ [Eloquent Javascript](http://eloquentjavascript.net/)
