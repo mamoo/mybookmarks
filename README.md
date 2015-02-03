@@ -125,3 +125,4 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
  + [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
  + [Big-O notation explained by a self-taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
  + [Big-O is easy to calculate, if you know how](http://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
+ + [What Happens When: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
