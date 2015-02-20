@@ -72,6 +72,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
 	+ [Learning Javascript Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+	+ [Super Hero JS: A collection of articles and videos about developing and testing a large JS codebase](http://superherojs.com/)
 
 # Git
 + [Git Commit Good Practices (OpenStack wiki)](https://wiki.openstack.org/wiki/GitCommitMessages#Git_Commit_Good_Practice)
@@ -97,6 +98,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Non Violent Communication (video)](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/705/Non-Violent-Communication)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
+	+ [A Guide to Real World TDD](http://paytonrules.com/software-development/2015/01/13/how-to-learn-tdd.html)
 + Books
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
 
