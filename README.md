@@ -96,9 +96,11 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Are you too nice at work?](https://www.linkedin.com/pulse/article/20140906053647-76474304-are-you-a-people-pleaser-at-work?trk=tod-home-art-list-small_1)
 	+ [Business Coaching: Using Constructive Feedback vs. Praise and Criticism](http://www.dummies.com/how-to/content/business-coaching-using-constructive-feedback-vers.html)
 	+ [Non Violent Communication (video)](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/705/Non-Violent-Communication)
+	+ [The Anatomy of an Agile Organization (Agile42  - Slideshare)](http://www.slideshare.net/tumma72/the-anatomy-of-an-agile-organization)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 	+ [A Guide to Real World TDD](http://paytonrules.com/software-development/2015/01/13/how-to-learn-tdd.html)
+	+ [Fun Retrospectives](http://www.funretrospectives.com/)
 + Books
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
 
