@@ -73,6 +73,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Learning Javascript Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 	+ [Super Hero JS: A collection of articles and videos about developing and testing a large JS codebase](http://superherojs.com/)
+	+ [Javascript The Right Way: a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.](http://jstherightway.org/)
 
 # Git
 + [Git Commit Good Practices (OpenStack wiki)](https://wiki.openstack.org/wiki/GitCommitMessages#Git_Commit_Good_Practice)
