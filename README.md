@@ -57,7 +57,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Boxstarter](http://www.boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
 
 
-# Javascript
+# Javascript/HTML/CSS
 + Framework and Libs
 	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loSW osely coupled, non-frameworky framework for building advanced JavaScript apps."
 + Pattern and Practices
@@ -74,6 +74,8 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 	+ [Super Hero JS: A collection of articles and videos about developing and testing a large JS codebase](http://superherojs.com/)
 	+ [Javascript The Right Way: a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.](http://jstherightway.org/)
++ Videos
+	+ [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
 
 # Git
 + [Git Commit Good Practices (OpenStack wiki)](https://wiki.openstack.org/wiki/GitCommitMessages#Git_Commit_Good_Practice)
