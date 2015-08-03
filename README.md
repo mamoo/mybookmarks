@@ -43,6 +43,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 # C&#35;
 + SOLID Principles
 	+ [DI, Composition Root by M. Seeman](http://blog.ploeh.dk/2011/07/28/CompositionRoot/)
+	+ [Composition vs Inheritance, how to choose? (Thoughtworks Insights)](http://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
 + Entity Framweork
 	+ [Entity Framework Code First: Mapping to Existing Table in the Database](http://www.codeproject.com/Tips/661053/Entity-Framework-Code-First-Map)
 + Testing
