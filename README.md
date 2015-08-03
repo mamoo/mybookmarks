@@ -74,6 +74,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 	+ [Super Hero JS: A collection of articles and videos about developing and testing a large JS codebase](http://superherojs.com/)
 	+ [Javascript The Right Way: a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.](http://jstherightway.org/)
+	+ [Front End Resources: Organized resources about front end development. By Dominik Serafin](http://enboard.co/frontend/)
 + Videos
 	+ [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
 
