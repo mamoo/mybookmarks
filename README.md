@@ -41,6 +41,8 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
 
 # C&#35;
++ Azure
+	+ [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)
 + SOLID Principles
 	+ [DI, Composition Root by M. Seeman](http://blog.ploeh.dk/2011/07/28/CompositionRoot/)
 	+ [Composition vs Inheritance, how to choose? (Thoughtworks Insights)](http://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
