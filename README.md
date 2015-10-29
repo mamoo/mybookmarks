@@ -71,6 +71,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Properly Isolate Variables in Javascript](http://nicoespeon.com/en/2013/05/properly-isolate-variables-in-javascript/)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 + Books and Online Guides
+	+ [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 	+ [Eloquent Javascript](http://eloquentjavascript.net/)
 	+ [Javascript for kids](http://www.nostarch.com/javascriptforkids)
 	+ [Learning Javascript Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
