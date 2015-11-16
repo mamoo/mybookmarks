@@ -107,6 +107,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [The Anatomy of an Agile Organization (Agile42  - Slideshare)](http://www.slideshare.net/tumma72/the-anatomy-of-an-agile-organization)
 	+ [Technical Leadership: The Often Overlooked Skills and Responsibilities of a Technical Team Leader](http://www.infoq.com/articles/technical-leadership-overseen)
 	+ [#AsMuchEstimationAsYouNeedWhenYouNeedItAndThatsLessThatYouThinkAndNotSoOftenAsAllThatReallyButJustGetOverIt](http://cumulative-hypotheses.org/2015/08/02/noestimates)
+	+ [Why We Fail to Change: Understanding Practices, Principles, and Values Is a Solution](http://www.infoq.com/articles/change-practices-principles-values)
 + Resources
 	+ [Coding Dojo](http://www.codingdojo.org/)
 	+ [A Guide to Real World TDD](http://paytonrules.com/software-development/2015/01/13/how-to-learn-tdd.html)
