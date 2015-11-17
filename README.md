@@ -128,6 +128,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
  + [JS Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
  + [The art of doing twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)}
  + [Kevin Rutherford on 'Tell, don't ask'](http://vimeo.com/67476623)
+ + [Coldfront Conference Videos](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw/videos)
 
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
