@@ -131,6 +131,9 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
  + [Coldfront Conference Videos](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw/videos)
  + [18 Talks Videos from ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw/videos)
 
+#Podcasts
+ + [Boss Level Podcast](http://www.bosslevelpodcast.com/)
+
 # On Line Training Resources
  + [Learning Line](https://learninglineapp.com/schedule)
  + [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com)
