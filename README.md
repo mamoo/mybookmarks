@@ -70,6 +70,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [7 Patterns To Refactor Javascript Applications](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 	+ [Properly Isolate Variables in Javascript](http://nicoespeon.com/en/2013/05/properly-isolate-variables-in-javascript/)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
+    + [Concurrently Javascript](http://blog.getify.com/concurrently-javascript-1)
 + Books and Online Guides
 	+ [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 	+ [Eloquent Javascript](http://eloquentjavascript.net/)
