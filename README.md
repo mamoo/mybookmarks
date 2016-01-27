@@ -112,8 +112,9 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Coding Dojo](http://www.codingdojo.org/)
 	+ [A Guide to Real World TDD](http://paytonrules.com/software-development/2015/01/13/how-to-learn-tdd.html)
 	+ [Fun Retrospectives](http://www.funretrospectives.com/)
-+ Books
++ Books & Guides
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
+    + [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 
 # Public Speaking
  + [We Are All Awesome](http://weareallaweso.me/)
