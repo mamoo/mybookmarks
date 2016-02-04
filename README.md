@@ -66,7 +66,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 
 # Javascript/HTML/CSS
 + Framework and Libs
-	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loSW osely coupled, non-frameworky framework for building advanced JavaScript apps."
+	+ [Ampersand.js](http://ampersandjs.com/) "A highly modular, loSW osely coupled, non-frameworky framework for building advanced JavaScript apps."    
 + Pattern and Practices
 	+ [Closures (MDN)](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Closures)
 	+ [Dependency Injection in Javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
@@ -84,6 +84,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Super Hero JS: A collection of articles and videos about developing and testing a large JS codebase](http://superherojs.com/)
 	+ [Javascript The Right Way: a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.](http://jstherightway.org/)
 	+ [Front End Resources: Organized resources about front end development. By Dominik Serafin](http://enboard.co/frontend/)
+    + [Recipes with Angular.js](http://fdietz.github.io/books.html)
 + Videos
 	+ [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
 
