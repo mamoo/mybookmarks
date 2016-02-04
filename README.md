@@ -41,6 +41,10 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
 
 # C&#35;
++ .Net Core 1.0
+    + [The road to DNX (series)](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html)
++ Asp.net
+    + [Asp.Net Community Standups](https://live.asp.net/)
 + Azure
 	+ [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)
 + SOLID Principles
