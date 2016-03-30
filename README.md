@@ -75,6 +75,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Properly Isolate Variables in Javascript](http://nicoespeon.com/en/2013/05/properly-isolate-variables-in-javascript/)
 	+ [Refactoring Tales (html ebook)](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
     + [Concurrently Javascript](http://blog.getify.com/concurrently-javascript-1)
+    + [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
 + Books and Online Guides
 	+ [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 	+ [Eloquent Javascript](http://eloquentjavascript.net/)
