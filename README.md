@@ -123,6 +123,8 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + Books & Guides
 	+ [Commitment, a Novel About Managing Project Risks](http://commitment-thebook.com/products/commitment-the-book)
     + [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
++ Games & Activities
+	+ [Draw a Toast](http://www.drawtoast.com/)
 
 # Public Speaking
  + [We Are All Awesome](http://weareallaweso.me/)
