@@ -88,6 +88,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Front End Resources: Organized resources about front end development. By Dominik Serafin](http://enboard.co/frontend/)
     + [Recipes with Angular.js](http://fdietz.github.io/books.html)
 	+ [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+	+ [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js)
 + Videos
 	+ [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
 
