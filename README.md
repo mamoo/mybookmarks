@@ -18,6 +18,9 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + DDD
 	+ [DDD By The Book](http://simon-says-architecture.com/2011/09/06/ddd-by-the-book/)
 
++ Good Practices - dos and don'ts
+	+ [MSDN - CRUD Only when you can afford it](https://msdn.microsoft.com/en-us/library/ms978509.aspx)
+
 + Hexagonal Architecture (Ports and Adapters)
 	+ [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) by Alistair Cockburn
 
@@ -27,6 +30,10 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [Microservices, 72 resources](http://blog.arkency.com/2014/07/microservices-72-resources/)
 	+ [Microservices: It’s not (only) the size that matters, it’s (also) how you use them](http://www.tigerteam.dk/2014/micro-services-its-not-only-the-size-that-matters-its-also-how-you-use-them-part-1/) Series of 4 blog posts on Microarchitecture
 	+ [Microservices for the Grumpy Neckbeard](http://www.chrisstucchio.com/blog/2014/microservices_for_the_grumpy_neckbeard.html)
+
++ Patterns
+	+ [MSDN - Event Sourcing Pattern](https://msdn.microsoft.com/en-us/library/dn589792.aspx?f=255&MSPPError=-2147217396)
+	+ [MSDN - Materialized View Pattern](https://msdn.microsoft.com/en-us/library/dn589782.aspx)
 
 + Various
 	+ [97 Things Every Software Architect Should Know](http://97things.oreilly.com/wiki/index.php/97_Things_Every_Software_Architect_Should_Know_-_The_Book)
@@ -57,7 +64,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [FluentAutomation Home](http://fluent.stirno.com/)
 	+ Libraries
 		+ [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions)
-+NuGet
++ NuGet
 	+ [Creating a NuGet Package in 7 easy steps](http://www.hanselman.com/blog/CreatingANuGetPackageIn7EasyStepsPlusUsingNuGetToIntegrateASPNETMVC3IntoExistingWebFormsApplications.aspx)
 + Misc
 	+ [Chocolatey](http://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
