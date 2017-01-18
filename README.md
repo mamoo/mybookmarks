@@ -43,6 +43,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 # API Design
 
 + [12 Killer Resources for API Practitioners](http://nordicapis.com/12-killer-resources-api-practitioners/)
++ [Writing OpenAPI (fka Swagger) Specification tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 
 # Testing
 + [M. Fowler on Unit Testing (2014)](http://martinfowler.com/bliki/UnitTest.html)
