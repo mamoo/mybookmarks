@@ -19,6 +19,7 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 	+ [DDD By The Book](http://simon-says-architecture.com/2011/09/06/ddd-by-the-book/)
 
 + Good Practices - dos and don'ts
+	+ [Achieving Modularity: Functional vs Volatility Decomposition](https://thelearningcto.com/2015/02/11/achieving-modularity-functional-vs-volatility-decomposition/)
 	+ [MSDN - CRUD Only when you can afford it](https://msdn.microsoft.com/en-us/library/ms978509.aspx)
 
 + Hexagonal Architecture (Ports and Adapters)
