@@ -3,7 +3,7 @@ My Bookmarks
 My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 
 
-# Software Architecture
+# Software Architecture and Patterns
 
 + Onion Architecture
 	+ [The Onion Architecture : part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/) post by J. Palermo
@@ -35,6 +35,8 @@ My personal collection of Dev, Sw Architecture and Agile related bookmarks.
 + Patterns
 	+ [MSDN - Event Sourcing Pattern](https://msdn.microsoft.com/en-us/library/dn589792.aspx?f=255&MSPPError=-2147217396)
 	+ [MSDN - Materialized View Pattern](https://msdn.microsoft.com/en-us/library/dn589782.aspx)
+	+ [Enterprise Integration Patterns - from Apache Camel](http://camel.apache.org/enterprise-integration-patterns.html)
+	+ [Cloud Design Patterns - Azure](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 + Various
 	+ [97 Things Every Software Architect Should Know](http://97things.oreilly.com/wiki/index.php/97_Things_Every_Software_Architect_Should_Know_-_The_Book)
